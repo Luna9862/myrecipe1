@@ -1,10 +1,15 @@
 #Title {
-    background-color:forestgreen;
+    background-color:;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 48px;
     text-align: center;
-    color:darkgreen
 }
 #Title2 {
+    text-align: center;
+}
+#Header {
+    text-align:center
+}
+#dire {
     text-align: center;
 }
