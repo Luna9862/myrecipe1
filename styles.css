@@ -1,5 +1,10 @@
 #Title {
-    font-family:'Times New Roman', Times, serif
+    background-color:forestgreen;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 48px;
+    text-align: center;
+    color:darkgreen
+}
+#Title2 {
     text-align: center;
 }
