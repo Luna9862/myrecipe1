@@ -77,6 +77,10 @@ th {
 form {
     border:2px dashed palevioletred;
     padding: 20px;
-    width: 300px
-    margin:0px auto;
+    margin: 0px auto;
+    max-width: 375px; 
+}
+#box {
+    display: flex;
+    justify-content: center;
 }
