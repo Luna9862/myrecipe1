@@ -1,1 +1,30 @@
+#Title {
+    text-align: center;
+    color:white;
+    font-family: Times New Roman;
+}
+#text{
+    font-size: 16px;
+}
+#Title2 {
+    text-align:center;
+    color:midnightblue
+}
+#text1 {
+    color:white
+}
+#text2 {
+    text-align: center;
+    color:whitesmoke;
+    font-size: 20px;
+}
+#image {
+    width: 20pc;
+    display:block;
+    margin: 0 auto;
+    border: 2px dashed white;
+    padding: 10px;
+    border-radius: 10%;
+    overflow: hidden;
+}
 
