@@ -4,10 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Questionare</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
+
+<style>
+    *{
+        background-color:antiquewhite;
+    }
+</style>
 <body>
-    <h1>Greetings!</h1>
-    <form> 
+    <h1 style="text-align: center;">Greetings!</h1>
+    <div style="text-align: center;">
+    <form style="text-align: center;"> 
         <label  for="name">Name:</label>
         <input type="text" id="name" name="name"> <br>
 
@@ -16,9 +24,10 @@
 
         <label for="question">Questions:</label> <br>
         <textarea id="question" name="question" rows="3" cols="40">
-        Please enter here any questions or concerns. 
-        </textarea>
+
+        </textarea><br>
         <input type="submit" value="Submit">
     </form>
+    </div>
 </body>
 </html>
