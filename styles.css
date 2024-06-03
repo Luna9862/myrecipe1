@@ -84,3 +84,24 @@ form {
     display: flex;
     justify-content: center;
 }
+.button {
+    display: flex;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    background-color:darkcyan;
+    border: whitesmoke dashed;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.button:hover {
+    background-color:blue;
+}
+#table {
+    margin: 0 auto; 
+    width: 50%; 
+}
